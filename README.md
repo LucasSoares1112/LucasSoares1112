@@ -41,20 +41,17 @@
 
 <hr>
 
-## 📊 Estatísticas / Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSoares1112&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSoares1112&layout=compact&langs_count=7&theme=radical" />
-</div>
-
-<hr>
-
 ## 📫 Conecte-se comigo / Connect with me
 
-- 💼 **LinkedIn:** [linkedin.com/in/lucasskenichi](https://linkedin.com/in/lucasskenichi)
-- 📧 **E-mail:** [lucasabk23@gmail.com](mailto:lucasabk23@gmail.com)
-
-<br>
+<div align="center">
+  <a href="https://linkedin.com/in/lucasskenichi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:lucasabk23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
 
 > **"Don't stop when you're tired. Stop when you're done."** — *David Goggins*
 
