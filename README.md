@@ -2,7 +2,7 @@
   <h1>Hello, I'm Lucas! 👋</h1>
   <p><strong>Software Engineer | IA & Cloud Researcher | Long-term Solutions</strong></p>
 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjAwanIwMDhvOGdsbTZlYW9pdmw3NXY0cGUzcDdqdmw1Z2lsY2dociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NPd2pkbsjftS3O3U9c/giphy.gif" width="700" height="700" alt="Tech Banner">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjAwanIwMDhvOGdsbTZlYW9pdmw3NXY0cGUzcDdqdmw1Z2lsY2dociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NPd2pkbsjftS3O3U9c/giphy.gif" width="600" height="1000" alt="Tech Banner">
 </div>
 
 <hr>
