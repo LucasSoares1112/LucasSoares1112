@@ -14,6 +14,15 @@
 
 <hr>
 
+## 📊 Estatísticas / GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSoares1112&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSoares1112&layout=compact&langs_count=7&theme=radical" />
+</div>
+
+<hr>
+
 ## 🛠 Habilidades Técnicas / Technical Skills
 
 ### 🚀 Linguagens & Frameworks
@@ -49,9 +58,11 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:lucasabk23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
+
+<br>
 
 > **"Don't stop when you're tired. Stop when you're done."** — *David Goggins*
 
